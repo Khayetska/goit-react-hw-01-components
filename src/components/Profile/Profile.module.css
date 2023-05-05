@@ -1,5 +1,5 @@
 .profile {
-    background-color: #b4b4b4;
+    background-color: #ffffff;
     width: 300px;
     padding: 25px 30px;
     margin: 0 auto;
@@ -36,7 +36,7 @@
 .stats {
     display: flex;
     gap: 25px;
-    background-color: #fefafa;
+    background-color: #d4d9e3;
     padding: 13px 20px;
 }
 
