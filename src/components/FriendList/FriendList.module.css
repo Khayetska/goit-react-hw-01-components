@@ -25,18 +25,3 @@
     border-radius: 3px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }
-
-.status {
-    width: 15px;
-    height: 15px;
-    border-radius: 100%;
-}
-
-.statusOnline {
-    background-color: #159a15;
-
-}
-
-.statusOfline {
-    background-color: #e81d1d;
-}
